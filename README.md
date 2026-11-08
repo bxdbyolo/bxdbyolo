@@ -1,18 +1,40 @@
-## привет
+# Hi, I'm Roman 
 
+I'm a third-year Software Engineering student at **ITMO University**, focusing on **C#/.NET backend development**.
 
+Currently building practical backend development skills and looking for my first internship or junior developer opportunity.
 
-<!--
-**bxdbyolo/bxdbyolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+- **Primary language:** C#
+- **Additional languages:** C++, Java
+- **Backend:** .NET 10, ASP.NET Core Web API, Entity Framework Core
+- **Databases:** SQL, PostgreSQL
+- **Tools:** Git, Docker, Docker Compose, JetBrains Rider
+- **Testing:** xUnit, Testcontainers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### [DeliveryFlow API](https://github.com/bxdbyolo/DeliveryFlow)
+
+A REST API for managing delivery orders and courier assignments.
+
+**Key features:**
+- Order management and delivery lifecycle
+- Courier assignment with business rule validation
+- PostgreSQL persistence using EF Core
+- Optimistic concurrency control
+- Integration testing with xUnit and Testcontainers
+- Containerized deployment with Docker Compose
+
+**Stack:** C# · ASP.NET Core · EF Core · PostgreSQL · Docker
+
+## Currently Learning
+
+- Backend application architecture
+- Database design and performance
+- Testing and reliable concurrent operations
+
+## Career Interests
+
+Interested in **C#/.NET backend internship and junior opportunities**, particularly in Saint Petersburg, Russia.
